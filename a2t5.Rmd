@@ -127,7 +127,7 @@ Cartography and spatial visualisation have been tools for public health for at l
 
 (ref:abc-caption) Image from ABC News report on the 2020 Australian bushfires [@ABC2020]. To assist the reader in determining context, the editor has added vector data for the Victorian coastline.
 
-(ref:ozone) Image from Vox Magazine listicle of the effects of the anthropocene [@Plumer2014]. The graphic is a composite of several satellite instruments, projected onto a hemisphere and scaled with a rainbow colour map. 
+(ref:ozone) Image from Vox Magazine listicle on the effects of the anthropocene [@Plumer2014]. The graphic is a composite of several satellite instruments, projected onto a hemisphere and scaled with a rainbow colour map. 
 
 ```{r out.width = "50%", fig.ncol = 2, fig.cap="Use of remote sensing visualisations in mainstream journalism. Both visualisations combine spatial raster and vector data to tell a story. In both cases, vector coastlines are added to assist the viewer in establishing a context for the rest of the image. ", fig.subcap=c("(ref:abc-caption)", "(ref:ozone)")}
 knitr::include_graphics(c("static/bushfire_a.jpg", "static/ozone.jpg"))
